@@ -29,8 +29,8 @@ Gümüşhane Üniversitesi – Yazılım Mühendisliği
 | Dosya Adı        | Açıklama |
 |------------------|----------|
 | `DFA_Proje.ipynb` | Jupyter Notebook dosyası (asıl analiz ve modelleme).  
-| `DFA_Proje.html`  | HTML çıktısı. Tarayıcıdan incelemek için rapor.  
-| `DFA_Proje.pdf`   | PDF çıktısı. Rapor.  
+| `DFA_Proje_HTML_Rapor.html`  | HTML çıktısı. Tarayıcıdan incelemek için rapor.  
+| `DFA_Proje_Pdf_Rapor.pdf`   | PDF çıktısı. Rapor.  
 | `home_price.xlsx` | Kullanılan veri seti.  
 | `.ipynb_checkpoints/` | Otomatik kayıt klasörü (göz ardı edilebilir).  
 
