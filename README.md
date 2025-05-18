@@ -7,7 +7,6 @@ Amaç, Türkiye'deki konutların özelliklerine göre kira fiyatlarını tahmin 
 
 **Ömer Daşçi**  
 Gümüşhane Üniversitesi – Yazılım Mühendisliği  
-2025 Mezunu Adayı
 
 ## 🧪 Kullanılan Teknolojiler
 
